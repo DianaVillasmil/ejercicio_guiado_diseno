@@ -1,0 +1,15 @@
+@media (min-width: 200px) and (max-width: 534px) {
+    [class*="col-"] {
+    width: 100%;
+    }
+
+    body {
+        background: #07B399;
+        font-family: "Indie Flower", cursive;
+        color: #DFDFDF;
+    }
+
+    img {
+        display: none;
+    }
+}
